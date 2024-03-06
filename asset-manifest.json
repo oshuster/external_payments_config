@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/external_payments_config/static/css/main.7acaea2f.css",
+    "main.js": "/external_payments_config/static/js/main.07d3183d.js",
+    "index.html": "/external_payments_config/index.html",
+    "main.7acaea2f.css.map": "/external_payments_config/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/external_payments_config/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
